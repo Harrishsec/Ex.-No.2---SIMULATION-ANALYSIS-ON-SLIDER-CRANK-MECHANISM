@@ -44,8 +44,8 @@
 ![Screenshot 2025-04-21 204358](https://github.com/user-attachments/assets/79f52ec3-4b46-41fd-b9b0-ebc9c241904c)
 
 
-### Name:G.Sindhu Priya Reddy
-### Register Number: 212224040319
+### Name:Harrish p
+### Register Number: 212224230088
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
